@@ -11,7 +11,8 @@
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
     "@nuxtjs/axios": "^5.12.2",
-    "nuxt": "^2.14.0"
+    "nuxt": "^2.14.0",
+    "saas": "^1.0.0"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^2.1.0",
@@ -20,5 +21,9 @@
     "prettier": "^2.0.5",
     "sass": "^1.81.0",
     "sass-loader": "^10.5.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
+
 }
